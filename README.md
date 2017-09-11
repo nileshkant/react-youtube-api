@@ -78,4 +78,6 @@ See the section about [deployment](#deployment) for more information.
 ### `npm run eject`
 
 ## SCREEN SHOTS
-![ALT Text](https://gifyu.com/images/Peek2017-09-1118-31.gif)
+![screen shot](https://gifyu.com/images/Peek2017-09-1118-31.gif)
+![second sreen shot](https://gifyu.com/images/Peek2017-09-1118-57.gif)
+
