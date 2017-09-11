@@ -73,4 +73,4 @@ See the section about [deployment](#deployment) for more information.
 ### `npm run eject`
 
 ## SCREEN SHOTS
-![Settings Window](https://preview.ibb.co/fTvcJa/Peek_2017_09_11_18_31.gif!)
+![ALT Text](https://preview.ibb.co/fTvcJa/Peek_2017_09_11_18_31.gif)
